@@ -1,0 +1,4 @@
+windows ansible_host=65.0.97.81 ansible_password=Ix!qLAmPP&pw8hBSQVAHs@XYNG=V27P? ansible_connection=winrm ansible_port=5986 ansible_user=Administrator ansible_winrm_server_cert_validation=ignore
+
+
+#ansible -i inventory -m win_ping all
